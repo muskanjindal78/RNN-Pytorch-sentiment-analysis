@@ -1,1 +1,2 @@
-# RNN-Pytorch-sentiment-analysis
+# Implementing RNN using pytorch for sentiment analysis on labelled Yelp review Dataset
+The Dataset already preprocessed,tokenized and cleaned.Read the preprocessed_yelp_data.csv file to perform some transformation on it and make it suitable for model training.Here is the link to dataset- https://drive.google.com/file/d/1VsikqoGtx6Ei12NIcmaIS4AYTwiksPJI/view?usp=sharing After reading the file you should split the data into train and test set, 20% data should be used for testing.put random state equal to seed for reproducibility.
